@@ -12,13 +12,13 @@
 	<atom:link href="/tosa/feed/" rel="self" type="application/rss+xml" />
 	<link>/tosa/</link>
 	<description>相続、遺言作成、車の名義変更、車庫証明、許認可手続きのサポートなどでお困りの方</description>
-	<lastBuildDate>Thu, 18 Jul 2024 14:02:51 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Aug 2024 11:24:59 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>/tosa/wp-content/uploads/2024/07/25655-45x45.png</url>
